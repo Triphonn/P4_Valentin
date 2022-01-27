@@ -735,6 +735,29 @@ h4 {
     margin-top: 24px;
 }
 
+.form_1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_div div{
+    margin-top: 5px;
+    gap: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.contactform{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.ml-lg{
+    margin-left: 15px;
+}
+
 .text-desc{
     color: #575757!important;
     text-transform: none;
